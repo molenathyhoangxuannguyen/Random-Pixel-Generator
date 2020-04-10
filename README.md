@@ -9,6 +9,9 @@
 - Author of lab and stubs: Jan Pearce, Berea College
 - Author of [C-Turtle](https://github.com/walkerje/C-Turtle): Jesse W. Walker
 
+###Final Image:
+<img src='randompixel.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 # Planning Prompts
 
 1. **RECURSION**
